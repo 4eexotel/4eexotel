@@ -16,4 +16,4 @@ You can contact me on any social network or by email.
 
 — [Telegram](https://4eexotel.ru/?tg)
 
-— [Instagram](https://4eexotel.ri/?insta)
+— [Instagram](https://4eexotel.ru/?insta)
