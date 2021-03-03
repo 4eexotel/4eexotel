@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, Friend! 👋🏻 I'm Vlad Surkov 😇
 
-<!--
-**4eexotel/4eexotel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How are you? 🧐 I'm fine, let's tell you about myself ⚡️:
 
-Here are some ideas to get you started:
+— I'm coding on PHP, Python, JS 😱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+— I love the night time 🌌
+
+— I like different music 🎵
+
+## How to contact me?
+
+You can contact me on any social network or by email.
+
+— [VK](https://4eexotel.ru/?vk)
+
+— [Telegram](https://4eexotel.ru/?tg)
+
+— [Instagram](https://4eexotel.ri/?insta)
