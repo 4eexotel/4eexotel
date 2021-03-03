@@ -10,7 +10,7 @@ How are you? 🧐 I'm fine, let's tell you about myself ⚡️:
 
 ## How to contact me?
 
-You can contact me on any social network or by email.
+You can contact me on any social network.
 
 — [VK](https://4eexotel.ru/?vk)
 
